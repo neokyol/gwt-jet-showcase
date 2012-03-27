@@ -8,6 +8,10 @@
 	<version>1.0</version>
 	<packaging>war</packaging>
 	<name>gwt-jet sample project</name>
+	
+	<prerequisites>
+    	<maven>2.2.0</maven>
+    </prerequisites>
 
 	<!-- include pluginRepository and repository for GWT-Maven -->
 	<pluginRepositories>

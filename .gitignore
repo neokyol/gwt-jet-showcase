@@ -1,0 +1,10 @@
+target
+.gwt
+.settings
+gwt-unitCache
+.classpath
+.project
+war/gwtjetsampleproject
+war/WEB-INF/lib
+war/WEB-INF/classes
+war/WEB-INF/deploy
